@@ -10,7 +10,6 @@ document.getElementById('resume-link-2').addEventListener("click", () => {
     window.open("https://drive.google.com/drive/u/0/folders/1Rr4tUedaSGO0B3W19YXnHQmJ58WmdzWZ", "_blank");
 })
 
-
 // let theme = document.querySelector(".theme");
 let theme1 = document.querySelector(".theme1");
 let themeslip = 1;
