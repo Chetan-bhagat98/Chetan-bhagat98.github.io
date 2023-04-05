@@ -1,1 +1,2 @@
-# Chetan-bhagat98.github.io
+# Chetan-bhagat.github.io
+This is my own portfolio repository.
