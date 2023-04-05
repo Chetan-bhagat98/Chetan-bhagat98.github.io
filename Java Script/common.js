@@ -1,5 +1,4 @@
-GitHubCalendar(".calendar", "Chetan-bhagat");
-GitHubCalendar(".calendar", "Chetan-bhagat", { responsive: true });
+
 
 
 document.getElementById('resume-link-1').addEventListener("click", () => {
@@ -119,18 +118,6 @@ function imgflip2() {
         j = 0
     }
 }
-
-let z = setInterval(imgflip3, 4500);
-let k = 0;
-function imgflip3() {
-    let img = ["./Images/project1.png", "./Images/slide31.png", "./Images/slide32.png"]
-    document.querySelector("#slide3").setAttribute("src", img[k]);
-    k++;
-    if (k == img.length) {
-        k = 0
-    }
-}
-
 
 let loader = document.querySelector("#loading")
 function loadkar() {
