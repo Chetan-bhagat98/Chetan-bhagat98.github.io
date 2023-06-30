@@ -2,12 +2,12 @@
 
 
 document.getElementById('resume-link-1').addEventListener("click", () => {
-    window.open("https://drive.google.com/file/d/1qBsy_bl4FLQcNJA4yF5hdg24yp-ViLeV/view", "_blank");
+    window.open("https://drive.google.com/file/d/1pl_jKi9QK5OqQdCwBch3WWZZ3piBoaS4/view", "_blank");
 })
 
 document.getElementById('resume-link-2').addEventListener("click", () => {
     // console.log("OPENinig.....")
-    window.open("https://drive.google.com/file/d/1qBsy_bl4FLQcNJA4yF5hdg24yp-ViLeV/view", "_blank");
+    window.open("https://drive.google.com/file/d/1pl_jKi9QK5OqQdCwBch3WWZZ3piBoaS4/view", "_blank");
 })
 
 // let theme = document.querySelector(".theme");
